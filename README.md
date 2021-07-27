@@ -1,3 +1,4 @@
 # Rocky-Linux-Codelite
 
-chmod +x install.sh                                                                                                                                                  install.sh
+chmod +x install.sh                                                                                                                                                  
+install.sh
